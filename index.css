@@ -1,5 +1,5 @@
 * {
-    a:link {
+    a:link, a:visited {
         color: green;
         text-decoration: none;
         font-weight: bold;
@@ -44,7 +44,7 @@ body {
 .footer {
     bottom: 0;
     grid-area: footer;
-    a:link {
+    a:link, a:visited {
         text-decoration: none;
         font-weight:lighter ;
         font-size: small;
